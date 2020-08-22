@@ -1,0 +1,14 @@
+hster　コマンド
+
+
+ssh hster -l s1910023
+/work/s1910023/openmx3.9/work/check
+
+
+
+WinSCP
+hster1          22
+s1910023
+
+クリーン
+c./mkdat.sh p-p1
